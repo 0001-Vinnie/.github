@@ -1,6 +1,6 @@
 <!-- PAGE - 001 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC0000&height=200&section=header&text=&fontSize=48&fontColor=FFFFFF" alt="1889-GHub header waving animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC0000&height=200§ion=header&text=&fontSize=48&fontColor=FFFFFF" alt="1889-GHub header waving animation" />
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BC0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Innovators;Ethical+Hacking+Experts;Digital+Guardians" alt="Typing animation for 1889-GHub roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BC0000¢er=true&vCenter=true&width=600&lines=Cybersecurity+Innovators;Ethical+Hacking+Experts;Digital+Guardians" alt="Typing animation for 1889-GHub roles" />
 </p>
 
 <div align="left" style="margin: 20px 0;">
@@ -85,19 +85,6 @@ innovative solutions to ensure a safer digital world under the 1889-GHub banner.
 
 <!-- PAGE - 004 -->
 <div align="left" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/STATS-BC0000?style=flat-square&labelColor=BC0000&logoColor=FFFFFF" alt="Stats section" />
-</div>
-
-<div align="center" style="background-color: #000000; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1889-GHub&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=BC0000" alt="Top programming languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=1889-GHub&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=BC0000&title_color=BC0000" alt="GitHub stats" />
-</div>
-
-<hr style="border-color: #BC0000;">
-
-<!-- PAGE - 005 -->
-<div align="left" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/CONTACT-BC0000?style=flat-square&labelColor=BC0000&logoColor=FFFFFF" alt="Contact section" />
 </div>
 
@@ -107,7 +94,7 @@ innovative solutions to ensure a safer digital world under the 1889-GHub banner.
   </a>
 </div>
 
-<!-- PAGE - 006 -->
+<!-- PAGE - 005 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC0000&height=100&section=footer" alt="Footer waving animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC0000&height=100§ion=footer" alt="Footer waving animation" />
 </p>
