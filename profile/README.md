@@ -96,5 +96,5 @@ innovative solutions to ensure a safer digital world under the 1889-GHub banner.
 
 <!-- PAGE - 005 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC0000&height=100§ion=footer" alt="Footer waving animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC0000&height=100&section=footer" alt="Footer waving animation" />
 </p>
