@@ -47,7 +47,6 @@ innovative solutions to ensure a safer digital world under the 1889-GHub banner.
   </pre>
 </div>
 
-<h3 align="left" style="font-style: italic; color: #BC0000;">Güvenli bir dijital dünya için durmaksızın çalışıyoruz!</h3>
 
 <hr style="border-color: #BC0000;">
 
